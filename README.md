@@ -3,6 +3,8 @@ Arduino sketch and corresponding Unity (C#) code to transfer Grove Trackball dat
 
 This has both the arduino sketch and the Unity code necessary to transfer physical movement to a GROVE MINI TRACKBALL attached to the arduino into Unity.
 
+Would not be possible without WRMHL
+https://www.hackster.io/relativty/wrmhl-arduino-and-unity3d-interactive-experience-cc18b3
 
-
+https://www.youtube.com/watch?v=Lurw-HmQqzQ
 https://youtu.be/RQ3jmjpmoTw
