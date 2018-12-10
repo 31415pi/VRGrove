@@ -1,8 +1,6 @@
 /*Arduino side
  * code for grove mini trackball to port movement data as CSV over Serial
- * for use in Tabitha Nikolai's project Utopia Without You
  * Comission Date: June 2018
- * 
  * Using this for Unity VR controller interfacing - Unity code attached in repo
  */
 #include "Wire.h"
